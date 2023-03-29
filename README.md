@@ -1,5 +1,7 @@
 # Filmatoria
-# Getting Started with Create React App
+  A Movie Suggestion website with search option created using React.js.
+  Movies are suggested trough API calls from Omdb API service.
+  
 
 This project was bootstrapped with Create React App.
 
