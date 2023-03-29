@@ -3,6 +3,7 @@
  
   Movies are suggested trough API calls from Omdb API service.
 
+# Live Site: https://jeevan-skn.github.io/Filmatoria/
 
 In the project directory, you can run:
 
